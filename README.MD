@@ -1,1 +1,1 @@
-# Sorting algorithms for beginners
+# Sorting Algorithm for Integer Arrays
